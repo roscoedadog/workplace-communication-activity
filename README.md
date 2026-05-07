@@ -28,4 +28,4 @@ BEGIN
 
     CALL MorningSyncMeeting()
 END
-Unscrambled the words "Dowm" "PING" "BUG" "SANDBOX" "PROD" "HOTFIX" "BACKDOOR" and "LEGACY"
+Unscrambled the words "DOWN" "PING" "BUG" "SANDBOX" "PROD" "HOTFIX" "BACKDOOR" and "LEGACY"
